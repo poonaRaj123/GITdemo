@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="91935" started-at="2021-12-13T05:30:55Z" finished-at="2021-12-13T05:32:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="91935" started-at="2021-12-13T05:30:55Z" finished-at="2021-12-13T05:32:27Z">
+      <class name="org.testng.ParallelTesting2">
+        <test-method status="PASS" signature="tc02()[pri:0, instance:org.testng.ParallelTesting2@57baeedf]" name="tc02" duration-ms="91765" started-at="2021-12-13T05:30:55Z" finished-at="2021-12-13T05:32:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc01()[pri:0, instance:org.testng.ParallelTesting2@57baeedf]" name="tc01" duration-ms="91783" started-at="2021-12-13T05:30:55Z" finished-at="2021-12-13T05:32:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:org.testng.ParallelTesting2@57baeedf]" name="tc03" duration-ms="91773" started-at="2021-12-13T05:30:55Z" finished-at="2021-12-13T05:32:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+      </class> <!-- org.testng.ParallelTesting2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
